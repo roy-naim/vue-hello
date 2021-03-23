@@ -4,7 +4,7 @@ var app = new Vue(
   {
   el: '#root',
   data: {
-    message: 'Hello Cal',
+    message: "I'M LISTENING",
     img: './img/penguin.jpg'
   },
   }
